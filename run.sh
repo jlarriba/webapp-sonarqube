@@ -1,4 +1,5 @@
 #!/bin/bash
+service ssh start
 
 set -e
 
